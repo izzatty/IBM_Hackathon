@@ -22,12 +22,12 @@ A web-based space exploration project developed during the IBM Hackathon 2024.
 - Bootstrap
 - Git & GitHub
 
-✨ Features
+## ✨ Features
 - 🚀 Interactive space-themed UI
 - 🌌 Responsive design using Bootstrap
 - 🎮 Clickable animated objects and effects
 
-📂 Project Structure
+## 📂 Project Structure
 
 IBM_Hackathon/
 ├── index.html
@@ -39,7 +39,10 @@ IBM_Hackathon/
 
 ### 🌐 Website Preview
 
-![Homepage Screenshot](images/homepage.png)
+(8/.png)
+(11/.png)
+(12/.png)
+(15/.png)
 
 ## 🧠 What I Learned
 

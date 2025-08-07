@@ -3,6 +3,7 @@
 🧠 Group Name: SkyChaser
 
 🥈 Awarded 4th place
+
 👨‍💻 Built in collaboration with 3 teammates using IBM Watsonx AI
   
 ## 👥 Team Members
@@ -43,20 +44,21 @@ IBM_Hackathon/
 │   └── 15.png
 │
 ├── README.md
+└── .gitignore
 
 ### 🌐 Website Preview
 
 ### Page 1
-![Preview 1](images/8.png)
+![Preview 1](images/8.jpg)
 
 ### Page 2
-![Preview 2](images/11.png)
+![Preview 2](images/11.jpg)
 
 ### Page 3
-![Preview 3](images/12.png)
+![Preview 3](images/12.jpg)
 
 ### Page 4
-![Preview 4](images/15.png)
+![Preview 4](images/15.jpg)
 
 ## 🧠 What I Learned
 

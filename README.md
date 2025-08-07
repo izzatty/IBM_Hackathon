@@ -1,7 +1,6 @@
-# IBM_Hackathon
+# IBM_Hackathon_2024
 
-🧠 SkyChaser
-A web-based space exploration project developed during the IBM Hackathon 2024.
+🧠 Group Name: SkyChaser
 
 🥈 Awarded 4th place
 👨‍💻 Built in collaboration with 3 teammates using IBM Watsonx AI
@@ -30,19 +29,34 @@ A web-based space exploration project developed during the IBM Hackathon 2024.
 ## 📂 Project Structure
 
 IBM_Hackathon/
+│
 ├── index.html
+│
 ├── style.css
+│
 ├── script.js
-├── images/
-│   └── homepage.png
+│
+├── images/                             
+│   ├── 8.png
+│   ├── 11.png
+│   ├── 12.png
+│   └── 15.png
+│
 ├── README.md
 
 ### 🌐 Website Preview
 
-(8/.png)
-(11/.png)
-(12/.png)
-(15/.png)
+### Page 1
+![Preview 1](images/8.png)
+
+### Page 2
+![Preview 2](images/11.png)
+
+### Page 3
+![Preview 3](images/12.png)
+
+### Page 4
+![Preview 4](images/15.png)
 
 ## 🧠 What I Learned
 

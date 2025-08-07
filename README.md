@@ -47,8 +47,7 @@ IBM_Hackathon/
 ├── README.md
 └── .gitignore
 
-```bash
-### 🌐 Website Preview
+## 🌐 Website Preview
 
 ### Page 1
 ![Preview 1](images/8.jpg)
@@ -62,7 +61,6 @@ IBM_Hackathon/
 ### Page 4
 ![Preview 4](images/15.jpg)
 
-```bash
 ## 🧠 What I Learned
 
 - How to build and deploy AI-powered features using IBM watsonx.ai

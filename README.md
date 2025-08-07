@@ -47,6 +47,8 @@ IBM_Hackathon/
 ├── README.md
 └── .gitignore
 
+```
+
 ## 🌐 Website Preview
 
 ### Page 1

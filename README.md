@@ -29,6 +29,7 @@
 
 ## 📂 Project Structure
 
+```bash
 IBM_Hackathon/
 │
 ├── index.html

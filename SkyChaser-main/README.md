@@ -1,43 +1,48 @@
-# ebay-clone
-Welcome to the eBay Clone repository! This project aims to replicate the functionality and design of the popular e-commerce platform eBay. Whether you're a developer looking to contribute, a curious individual exploring how eBay works behind the scenes, or an entrepreneur seeking inspiration for your own online marketplace, you've come to the right place.
-# Demo Video
-- Click here
-- [![thumbnail](Assets/screenshot.png)](https://drive.google.com/file/d/1RUA6OEUSeCB7TPy3R4mUC2-6vW1_I_iG/view?usp=drive_link)
+🧠 IBM Hackathon Project — SkyChaser
+A web-based space exploration project developed during the IBM Hackathon 2024.
+This application allows users to experience interactive space-themed content using web technologies.
 
+🥈 Awarded 4th place
+👨‍💻 Built in collaboration with 3 teammates using IBM Watsonx AI
 
-# Table of Contents
-- Introduction
-- Features
-- Installation
-- Usage
-- Contributing
-- License
+## 🛠️ Tech Stack
 
-# Introduction
-This repository contains the source code for an eBay clone, developed using modern web technologies including HTML, CSS, JavaScript, and possibly a backend framework such as Django, Ruby on Rails, or Express.js. The goal is to mimic eBay's core functionalities such as user authentication, product listings, bidding, purchasing, and seller management.
+- IBM watsonx.ai (Model training, API integration)
+-  HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git & GitHub
+  
 
-# Features
-- User Authentication: Allow users to sign up, log in, and manage their accounts securely.
-- Product Listings: Enable users to create listings for items they want to sell.
-- Shopping Cart: Allow users to add items to their shopping cart for easy checkout.
-- Payment Integration: Integrate payment gateways to facilitate secure transactions.
-- Search Functionality: Provide a search bar for users to find specific items quickly.
+## 👥 Team Members
+| Name                               
+| ---------------------------------- 
+| Nurul Izzatty
+| Wan Muhammad Luqman                   
+| Muhammad Amir           
 
-# Installation
-To get started with running the eBay Clone locally, follow these steps:
-1. Clone the repository to your local machine:
-   ```
-      git clone https://github.com/marwan-mohamed12/ebay-clone.git
-   ```
-2. Navigate to the project directory:
-   ```
-      cd ebay-clone
-   ```
-# Contributing
-Contributions to the eBay Clone project are welcome! Whether you want to fix a bug, implement a new feature, or improve documentation, feel free to submit pull requests. Please follow the guidelines outlined in the CONTRIBUTING.md file.
+✨ Features
+- 🚀 Interactive space-themed UI
+- 🌌 Responsive design using Bootstrap
+- 🎮 Clickable animated objects and effects
 
-# License
-The eBay Clone project is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. Refer to the LICENSE file for more information.
+📂 Project Structure
 
----
-Thank you for checking out the eBay Clone project! If you have any questions or feedback, don't hesitate to contact us. Happy coding! 🚀
+IBM_Hackathon/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   └── homepage.png
+├── README.md
+
+### 🌐 Website Preview
+
+![Homepage Screenshot](images/homepage.png)
+
+## 🧠 What I Learned
+
+- How to build and deploy AI-powered features using IBM watsonx.ai
+- Integrating IBM cloud-based AI models into a web application
+- Team collaboration in a fast-paced hackathon environment
